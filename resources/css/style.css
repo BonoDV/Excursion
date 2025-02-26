@@ -1,0 +1,50 @@
+* {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.download-link {
+    display: flex;
+    color: aquamarine;
+    font-size: 16px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+body video {
+    display: flex;
+    margin: 0 auto;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    text-align: center;
+    font-size: 21px;
+}
+
+section img {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+footer {
+    display: flex;
+    justify-content: right;
+}
