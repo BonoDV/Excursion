@@ -1,3 +1,5 @@
+![Image](https://jmbc.vercel.app/projects/rep_ca_github.png)
+
 # OpenAcademy Course Website Replication
 
 This project is a replication of the OpenAcademy course website, created for educational and practice purposes. The main goal is to emulate the structure, design, and functionalities of the original page using modern web development technologies.
